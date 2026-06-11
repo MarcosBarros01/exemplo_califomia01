@@ -1,3 +1,12 @@
 streamlit
-geopandas
+
+pandas
+numpy
+
+scikit-learn
 joblib
+
+geopandas
+shapely
+fiona
+pyproj
